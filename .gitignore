@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# PHP - composer
+composer.phar
+/vendor/
+
+# env
+.env
+
+# others
+.history/*
